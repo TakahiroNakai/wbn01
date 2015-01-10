@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 aaaa
+=======
+<!-- aaa -->
+>>>>>>> 06b32cde25c576256e4f93da338baeff5de34e36
 <?php get_header(); ?>
 
 <!-- [ #pageTitBnr ] -->
